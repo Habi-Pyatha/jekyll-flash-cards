@@ -1,0 +1,23 @@
+ruby:
+  - question: "What is Ruby?"
+    answer: "Ruby is a dynamic, open-source programming language focused on simplicity and productivity."
+  - question: "Who created Ruby?"
+    answer: "Yukihiro Matsumoto, commonly known as Matz, created Ruby in 1995."
+  - question: "What is IRB in Ruby?"
+    answer: "IRB stands for Interactive Ruby, a REPL for executing Ruby code interactively."
+  - question: "What is a gem in Ruby?"
+    answer: "A gem is a packaged Ruby library or application that can be shared and installed using the RubyGems package manager."
+  - question: "How do you define a method in Ruby?"
+    answer: "Using the `def` keyword followed by the method name, e.g., `def method_name; end`."
+
+python:
+  - question: "What is Python?"
+    answer: "Python is a high-level, interpreted programming language known for its readability and versatility."
+  - question: "Who created Python?"
+    answer: "Python was created by Guido van Rossum in 1991."
+  - question: "What is PIP in Python?"
+    answer: "PIP is the package installer for Python, used to install and manage Python packages."
+  - question: "What are Python's key data types?"
+    answer: "Key data types include `int`, `float`, `str`, `list`, `tuple`, `dict`, and `set`."
+  - question: "How do you define a function in Python?"
+    answer: "Using the `def` keyword followed by the function name, e.g., `def function_name():`."

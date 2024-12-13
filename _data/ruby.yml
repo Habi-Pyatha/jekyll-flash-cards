@@ -1,0 +1,59 @@
+- question: "What is Ruby?"
+  answer: "Ruby is a dynamic, open-source programming language focused on simplicity and productivity."
+
+- question: "Who created Ruby?"
+  answer: "Yukihiro Matsumoto, commonly known as Matz, created Ruby in 1995."
+
+- question: "What is IRB in Ruby?"
+  answer: "IRB stands for Interactive Ruby, a REPL for executing Ruby code interactively."
+
+- question: "What is a gem in Ruby?"
+  answer: "A gem is a packaged Ruby library or application that can be shared and installed using the RubyGems package manager."
+
+- question: "How do you define a method in Ruby?"
+  answer: "Using the `def` keyword followed by the method name, e.g., `def method_name; end`."
+
+- question: "What is a block in Ruby?"
+  answer: "A block is an anonymous chunk of code enclosed within `do...end` or curly braces `{...}`."
+
+- question: "What is the difference between `require` and `load` in Ruby?"
+  answer: "`require` loads a library or file once, whereas `load` loads it every time it's called."
+
+- question: "What is a class in Ruby?"
+  answer: "A class is a blueprint for creating objects, defining their behaviors and properties."
+
+- question: "What is an instance variable in Ruby?"
+  answer: "An instance variable begins with `@` and is used to hold data specific to an object instance."
+
+- question: "What is the purpose of `initialize` in Ruby?"
+  answer: "`initialize` is a special method called automatically when a new object is created."
+
+- question: "What is the difference between `==` and `equal?` in Ruby?"
+  answer: "`==` checks value equality, whereas `equal?` checks object identity."
+
+- question: "What is a module in Ruby?"
+  answer: "A module is a collection of methods and constants that can be mixed into classes using `include` or `extend`."
+
+- question: "How do you handle exceptions in Ruby?"
+  answer: "Using the `begin...rescue...end` block."
+
+- question: "What is a symbol in Ruby?"
+  answer: "A symbol is an immutable, reusable identifier represented by a colon followed by a name, e.g., `:symbol`."
+
+- question: "What is the difference between `proc` and `lambda` in Ruby?"
+  answer: "`proc` is a flexible block of code, while `lambda` is stricter in argument checking and return handling."
+
+- question: "What is a mixin in Ruby?"
+  answer: "A mixin is a module included in a class to provide additional functionality without inheritance."
+
+- question: "What does the `super` keyword do in Ruby?"
+  answer: "`super` calls a method with the same name in the parent class or module."
+
+- question: "What is the `self` keyword in Ruby?"
+  answer: "`self` refers to the current object or class where the code is being executed."
+
+- question: "How do you open a file in Ruby?"
+  answer: "Using the `File.open` method, e.g., `File.open('file.txt', 'r')`."
+
+- question: "What does the `yield` keyword do in Ruby?"
+  answer: "`yield` passes control to a block provided when the method is called."

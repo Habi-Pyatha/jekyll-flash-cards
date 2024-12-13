@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome to Ruby Flash Card!"
+date:   2024-12-13 11:53:11 +0545
+categories: jekyll update
+permalink: ruby
+---
+
+<h1>Ruby FlashCards</h1>
+{% include flashcards.html%}
+
