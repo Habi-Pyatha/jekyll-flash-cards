@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome to Python Flash Cards!"
+date:   2024-12-13 11:53:11 +0545
+categories: jekyll update
+permalink: python
+---
+
+<h1>FlashCards</h1>
+{% include flashcards.html %}
+

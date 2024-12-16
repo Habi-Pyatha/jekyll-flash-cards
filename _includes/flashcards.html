@@ -12,7 +12,11 @@
     </div>
     {% endfor %}
   </div>
-  
-  {{site.url}}
 
-  {{page.url | split:'/' |last}}
+  <script>
+  document.querySelectorAll('.flashcard').forEach(card=>{
+    card.addEventListener('click',()=>{
+        card.classList.toggle('flipped');
+    })
+})
+</script>
